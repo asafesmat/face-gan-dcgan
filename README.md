@@ -48,7 +48,7 @@ A fixed noise vector is used to generate samples after every epoch, so progress 
 
 ### Training losses
 
-![Training losses](images/losses.png)
+![Training losses](Images/losses.png)
 
 The Generator loss decreased from about 3.0 to 2.2 and then stabilized, while the Discriminator loss stayed around 0.5–0.7. Training remained stable, with no collapse of either network.
 
@@ -56,15 +56,15 @@ The Generator loss decreased from about 3.0 to 2.2 and then stabilized, while th
 
 | Epoch 1 | Epoch 5 |
 |---|---|
-| ![Epoch 1](images/epoch_001.png) | ![Epoch 5](images/epoch_005.png) |
+| ![Epoch 1](Images/epoch_001.png) | ![Epoch 5](Images/epoch_005.png) |
 
 | Epoch 10 | Epoch 20 |
 |---|---|
-| ![Epoch 10](images/epoch_010.png) | ![Epoch 20](images/epoch_020.png) |
+| ![Epoch 10](Images/epoch_010.png) | ![Epoch 20](Images/epoch_020.png) |
 
 ### Final generated faces
 
-![Final generated faces](images/final_faces.png)
+![Final generated faces](Images/final_faces.png)
 
 ## Limitations
 
